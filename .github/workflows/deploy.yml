@@ -1,4 +1,4 @@
-name: Build and Deploy Express API to ACR and Azure Container Apps 🚀
+name: Build and Deploy React App to ACR and Azure Container Apps 🚀
 
 on:
   push:
@@ -7,7 +7,7 @@ on:
 
 env:
   IMAGE_NAME: grogu-api
-  RESOURCE_GROUP: groguResourceGroup
+  RESOURCE_GROUP: Team01
   CONTAINER_APP_NAME: grogu-api
   REGISTRY_LOGIN_SERVER: ${{ secrets.REGISTRY_LOGIN_SERVER }}
 
@@ -42,4 +42,4 @@ jobs:
           imageToDeploy: ${{ env.REGISTRY_LOGIN_SERVER }}/${{ env.IMAGE_NAME }}:${{ github.sha }}
           containerAppName: ${{ env.CONTAINER_APP_NAME }}
           resourceGroup: ${{ env.RESOURCE_GROUP }}
-          acrName: grogucr
+          acrName: grogucontainerreg

@@ -2,7 +2,7 @@
 
 set -e  # Exit immediately if any command fails
 
-ACR_NAME="grogucr"
+ACR_NAME="grogucontainerreg"
 IMAGE_NAME="grogu-api"
 IMAGE_TAG="v1"
 RESOURCE_GROUP="Team01"
