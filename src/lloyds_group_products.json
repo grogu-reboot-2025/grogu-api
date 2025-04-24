@@ -1,0 +1,236 @@
+{
+  "Insurance": [
+    {
+      "Id": "insurance_001",
+      "Title": "Lloyds Bank Home Insurance",
+      "ImagePath": "",
+      "Description": "Comprehensive home insurance from Lloyds Bank covering buildings, contents, and optional extras.",
+      "URL": "https://www.lloydsbank.com/insurance/home-insurance.html",
+      "DisplayCategory": "Insurance"
+    },
+    {
+      "Id": "insurance_002",
+      "Title": "Halifax Car Insurance",
+      "ImagePath": "",
+      "Description": "Flexible car insurance policies from Halifax offering 24/7 claims and uninsured driver promise.",
+      "URL": "https://www.halifax.co.uk/insurance/car-insurance.html",
+      "DisplayCategory": "Insurance"
+    },
+    {
+      "Id": "insurance_003",
+      "Title": "Scottish Widows Life Insurance",
+      "ImagePath": "",
+      "Description": "Life insurance policies from Scottish Widows to help protect your family's future.",
+      "URL": "https://www.scottishwidows.co.uk/products/life-insurance/",
+      "DisplayCategory": "Insurance"
+    }
+  ],
+  "BankAccounts": [
+    {
+      "Id": "bankaccounts_001",
+      "Title": "Lloyds Bank Classic Account",
+      "ImagePath": "",
+      "Description": "Everyday banking with a Lloyds Bank Classic Account. No monthly fee.",
+      "URL": "https://www.lloydsbank.com/current-accounts/classic-account.html",
+      "DisplayCategory": "Bank Accounts"
+    },
+    {
+      "Id": "bankaccounts_002",
+      "Title": "Halifax Reward Account",
+      "ImagePath": "",
+      "Description": "Get rewarded each month with a Halifax Reward Account.",
+      "URL": "https://www.halifax.co.uk/bankaccounts/reward-current-account.html",
+      "DisplayCategory": "Bank Accounts"
+    },
+    {
+      "Id": "bankaccounts_003",
+      "Title": "Bank of Scotland Classic Account",
+      "ImagePath": "",
+      "Description": "A straightforward account for your everyday banking needs.",
+      "URL": "https://www.bankofscotland.co.uk/current-accounts/classic-account.html",
+      "DisplayCategory": "Bank Accounts"
+    }
+  ],
+  "Mortgages": [
+    {
+      "Id": "mortgages_001",
+      "Title": "Lloyds Bank First Time Buyer Mortgage",
+      "ImagePath": "",
+      "Description": "Tailored mortgages for first time buyers, with advice and tools to support your journey.",
+      "URL": "https://www.lloydsbank.com/mortgages/first-time-buyers.html",
+      "DisplayCategory": "Mortgages"
+    },
+    {
+      "Id": "mortgages_002",
+      "Title": "Halifax Remortgage Deals",
+      "ImagePath": "",
+      "Description": "Switch to Halifax with our competitive remortgage rates and fee-free options.",
+      "URL": "https://www.halifax.co.uk/mortgages/remortgage.html",
+      "DisplayCategory": "Mortgages"
+    },
+    {
+      "Id": "mortgages_003",
+      "Title": "Bank of Scotland Home Mover Mortgage",
+      "ImagePath": "",
+      "Description": "Mortgages designed to make moving home easier and more affordable.",
+      "URL": "https://www.bankofscotland.co.uk/mortgages/moving-home.html",
+      "DisplayCategory": "Mortgages"
+    }
+  ],
+  "SavingsAccounts": [
+    {
+      "Id": "savings_001",
+      "Title": "Lloyds Bank Easy Saver",
+      "ImagePath": "",
+      "Description": "A simple way to save with instant access to your money.",
+      "URL": "https://www.lloydsbank.com/savings/easy-saver.html",
+      "DisplayCategory": "Savings Accounts"
+    },
+    {
+      "Id": "savings_002",
+      "Title": "Halifax Everyday Saver",
+      "ImagePath": "",
+      "Description": "Save at your own pace with an Everyday Saver account from Halifax.",
+      "URL": "https://www.halifax.co.uk/savings/everyday-saver.html",
+      "DisplayCategory": "Savings Accounts"
+    },
+    {
+      "Id": "savings_003",
+      "Title": "Bank of Scotland Access Saver",
+      "ImagePath": "",
+      "Description": "Flexible saving with easy access to your money.",
+      "URL": "https://www.bankofscotland.co.uk/savings/easy-access.html",
+      "DisplayCategory": "Savings Accounts"
+    }
+  ],
+  "ISAs": [
+    {
+      "Id": "isas_001",
+      "Title": "Lloyds Bank Cash ISA",
+      "ImagePath": "",
+      "Description": "Tax-free savings with flexible access from Lloyds Bank.",
+      "URL": "https://www.lloydsbank.com/savings/cash-isa.html",
+      "DisplayCategory": "ISAs"
+    },
+    {
+      "Id": "isas_002",
+      "Title": "Halifax ISA Saver Fixed",
+      "ImagePath": "",
+      "Description": "Save tax-free with a fixed interest rate over a chosen term.",
+      "URL": "https://www.halifax.co.uk/savings/isas/fixed.html",
+      "DisplayCategory": "ISAs"
+    },
+    {
+      "Id": "isas_003",
+      "Title": "Bank of Scotland ISA Saver Variable",
+      "ImagePath": "",
+      "Description": "Enjoy tax-free savings with variable interest and flexible access.",
+      "URL": "https://www.bankofscotland.co.uk/savings/isas.html",
+      "DisplayCategory": "ISAs"
+    }
+  ],
+  "Investments": [
+    {
+      "Id": "investments_001",
+      "Title": "Scottish Widows Stocks and Shares ISA",
+      "ImagePath": "",
+      "Description": "Invest for the future with a tax-efficient Stocks and Shares ISA.",
+      "URL": "https://www.scottishwidows.co.uk/products/investments/isas/",
+      "DisplayCategory": "Investments"
+    },
+    {
+      "Id": "investments_002",
+      "Title": "Halifax Share Dealing Account",
+      "ImagePath": "",
+      "Description": "Buy and sell shares online with Halifax Share Dealing.",
+      "URL": "https://www.halifax.co.uk/investing/share-dealing/",
+      "DisplayCategory": "Investments"
+    },
+    {
+      "Id": "investments_003",
+      "Title": "Lloyds Bank Investment ISA",
+      "ImagePath": "",
+      "Description": "Tax-efficient investing through Lloyds Bank’s ISA platform.",
+      "URL": "https://www.lloydsbank.com/investments/isas.html",
+      "DisplayCategory": "Investments"
+    }
+  ],
+  "Pensions": [
+    {
+      "Id": "pensions_001",
+      "Title": "Scottish Widows Pension Plan",
+      "ImagePath": "",
+      "Description": "Flexible pension plans with investment choice and expert support.",
+      "URL": "https://www.scottishwidows.co.uk/products/pensions/personal/",
+      "DisplayCategory": "Pensions"
+    },
+    {
+      "Id": "pensions_002",
+      "Title": "Scottish Widows Workplace Pension",
+      "ImagePath": "",
+      "Description": "Comprehensive workplace pension solutions for employers and employees.",
+      "URL": "https://www.scottishwidows.co.uk/employer/workplace-pensions/",
+      "DisplayCategory": "Pensions"
+    },
+    {
+      "Id": "pensions_003",
+      "Title": "Scottish Widows Retirement Account",
+      "ImagePath": "",
+      "Description": "A flexible retirement income product that lets you draw money as you need it.",
+      "URL": "https://www.scottishwidows.co.uk/products/retirement-account/",
+      "DisplayCategory": "Pensions"
+    }
+  ],
+  "CreditCards": [
+    {
+      "Id": "creditcards_001",
+      "Title": "Lloyds Bank Platinum Credit Card",
+      "ImagePath": "",
+      "Description": "0% interest for a set period on balance transfers and purchases.",
+      "URL": "https://www.lloydsbank.com/credit-cards/platinum-card.html",
+      "DisplayCategory": "Credit Cards"
+    },
+    {
+      "Id": "creditcards_002",
+      "Title": "Halifax Clarity Credit Card",
+      "ImagePath": "",
+      "Description": "No fees on overseas spending, great for travel.",
+      "URL": "https://www.halifax.co.uk/creditcards/clarity-card.html",
+      "DisplayCategory": "Credit Cards"
+    },
+    {
+      "Id": "creditcards_003",
+      "Title": "Bank of Scotland Low Rate Credit Card",
+      "ImagePath": "",
+      "Description": "Low interest rates on purchases and balance transfers.",
+      "URL": "https://www.bankofscotland.co.uk/credit-cards/low-rate-card.html",
+      "DisplayCategory": "Credit Cards"
+    }
+  ],
+  "HomeServices": [
+    {
+      "Id": "homeservices_001",
+      "Title": "Lloyds Bank Home Emergency Cover",
+      "ImagePath": "",
+      "Description": "24/7 assistance for unexpected home emergencies, including boiler breakdowns, burst pipes, and electrical failures.",
+      "URL": "https://www.lloydsbank.com/insurance/home-insurance/our-cover/home-emergency.html",
+      "DisplayCategory": "Home Services"
+    },
+    {
+      "Id": "homeservices_002",
+      "Title": "Halifax Home Emergency Cover",
+      "ImagePath": "",
+      "Description": "Protect your home against emergencies like heating failure, plumbing issues, and roof damage.",
+      "URL": "https://www.halifax.co.uk/insurance/home-insurance/our-cover/home-emergency.html",
+      "DisplayCategory": "Home Services"
+    },
+    {
+      "Id": "homeservices_003",
+      "Title": "Bank of Scotland Home Emergency Cover",
+      "ImagePath": "",
+      "Description": "Comprehensive emergency cover for your home, including plumbing, heating, and electrical emergencies.",
+      "URL": "https://www.bankofscotland.co.uk/insurance/home-insurance/our-cover/home-emergency.html",
+      "DisplayCategory": "Home Services"
+    }
+  ]
+}
